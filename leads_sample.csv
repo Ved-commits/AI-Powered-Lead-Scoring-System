@@ -1,0 +1,81 @@
+lead_id,name,email,company,industry,employees,lead_source,pages_visited,emails_opened,last_contact_days,region,converted
+1,Lead 1,lead1@example.com,Company 1,SaaS,206,Referral,3,1,23,EMEA,0
+2,Lead 2,lead2@example.com,Company 2,Manufacturing,1986,Website,9,1,24,MEA,0
+3,Lead 3,lead3@example.com,Company 3,Healthcare,1000,Website,1,0,6,NA,1
+4,Lead 4,lead4@example.com,Company 4,Manufacturing,2322,LinkedIn,2,1,51,NA,1
+5,Lead 5,lead5@example.com,Company 5,Manufacturing,820,Website,2,2,5,APAC,1
+6,Lead 6,lead6@example.com,Company 6,FinTech,460,Cold Email,4,0,52,APAC,0
+7,Lead 7,lead7@example.com,Company 7,Healthcare,1280,Cold Email,6,2,23,MEA,0
+8,Lead 8,lead8@example.com,Company 8,Healthcare,1021,Webinar,3,2,32,NA,0
+9,Lead 9,lead9@example.com,Company 9,Healthcare,2348,Cold Email,7,3,48,MEA,0
+10,Lead 10,lead10@example.com,Company 10,Manufacturing,2772,Cold Email,4,1,28,APAC,0
+11,Lead 11,lead11@example.com,Company 11,SaaS,342,Website,6,2,42,APAC,1
+12,Lead 12,lead12@example.com,Company 12,Healthcare,883,Cold Email,8,2,21,NA,0
+13,Lead 13,lead13@example.com,Company 13,Real Estate,1081,Webinar,5,3,25,ANZ,1
+14,Lead 14,lead14@example.com,Company 14,Manufacturing,796,Cold Email,7,1,27,EMEA,1
+15,Lead 15,lead15@example.com,Company 15,FinTech,2269,Cold Email,7,2,49,APAC,0
+16,Lead 16,lead16@example.com,Company 16,SaaS,768,LinkedIn,7,1,20,APAC,1
+17,Lead 17,lead17@example.com,Company 17,Real Estate,2240,Website,2,0,48,ANZ,1
+18,Lead 18,lead18@example.com,Company 18,Real Estate,384,Website,3,1,6,ANZ,0
+19,Lead 19,lead19@example.com,Company 19,FinTech,497,LinkedIn,2,1,16,MEA,1
+20,Lead 20,lead20@example.com,Company 20,SaaS,1185,Cold Email,3,5,19,MEA,1
+21,Lead 21,lead21@example.com,Company 21,Manufacturing,2067,Cold Email,2,3,40,EMEA,1
+22,Lead 22,lead22@example.com,Company 22,EdTech,69,Website,7,0,48,EMEA,0
+23,Lead 23,lead23@example.com,Company 23,SaaS,2573,Webinar,2,1,19,NA,1
+24,Lead 24,lead24@example.com,Company 24,FinTech,1372,LinkedIn,3,2,53,MEA,0
+25,Lead 25,lead25@example.com,Company 25,Real Estate,1157,Website,2,3,21,APAC,0
+26,Lead 26,lead26@example.com,Company 26,Manufacturing,2032,Website,4,1,27,MEA,1
+27,Lead 27,lead27@example.com,Company 27,SaaS,2700,LinkedIn,6,1,39,APAC,0
+28,Lead 28,lead28@example.com,Company 28,EdTech,1500,Cold Email,1,1,48,ANZ,0
+29,Lead 29,lead29@example.com,Company 29,EdTech,1167,LinkedIn,1,1,6,MEA,1
+30,Lead 30,lead30@example.com,Company 30,Healthcare,1527,Webinar,3,3,0,ANZ,0
+31,Lead 31,lead31@example.com,Company 31,Healthcare,2645,Referral,3,4,31,EMEA,0
+32,Lead 32,lead32@example.com,Company 32,FinTech,396,LinkedIn,4,1,12,EMEA,1
+33,Lead 33,lead33@example.com,Company 33,SaaS,1703,Event,5,3,29,NA,1
+34,Lead 34,lead34@example.com,Company 34,SaaS,423,Event,2,2,22,MEA,1
+35,Lead 35,lead35@example.com,Company 35,Real Estate,2341,LinkedIn,8,2,50,ANZ,0
+36,Lead 36,lead36@example.com,Company 36,Real Estate,383,LinkedIn,3,0,58,APAC,1
+37,Lead 37,lead37@example.com,Company 37,Real Estate,1801,LinkedIn,1,2,55,EMEA,0
+38,Lead 38,lead38@example.com,Company 38,Healthcare,2283,LinkedIn,2,1,18,EMEA,1
+39,Lead 39,lead39@example.com,Company 39,SaaS,2093,Website,2,1,31,APAC,1
+40,Lead 40,lead40@example.com,Company 40,SaaS,2187,Webinar,4,1,29,ANZ,0
+41,Lead 41,lead41@example.com,Company 41,EdTech,205,Webinar,6,0,28,ANZ,1
+42,Lead 42,lead42@example.com,Company 42,Healthcare,1868,Website,7,3,48,MEA,1
+43,Lead 43,lead43@example.com,Company 43,Manufacturing,784,LinkedIn,6,4,44,MEA,0
+44,Lead 44,lead44@example.com,Company 44,Healthcare,2982,Cold Email,2,4,28,NA,1
+45,Lead 45,lead45@example.com,Company 45,Manufacturing,507,Website,5,2,29,EMEA,0
+46,Lead 46,lead46@example.com,Company 46,EdTech,2459,Website,5,0,15,MEA,1
+47,Lead 47,lead47@example.com,Company 47,FinTech,1756,LinkedIn,4,3,39,ANZ,1
+48,Lead 48,lead48@example.com,Company 48,SaaS,809,Event,4,2,18,APAC,0
+49,Lead 49,lead49@example.com,Company 49,EdTech,2151,Website,3,1,17,ANZ,0
+50,Lead 50,lead50@example.com,Company 50,SaaS,2736,Referral,2,2,0,EMEA,1
+51,Lead 51,lead51@example.com,Company 51,Real Estate,1900,Referral,3,3,13,ANZ,1
+52,Lead 52,lead52@example.com,Company 52,FinTech,2778,Website,8,2,50,NA,0
+53,Lead 53,lead53@example.com,Company 53,FinTech,1575,Referral,5,2,46,EMEA,1
+54,Lead 54,lead54@example.com,Company 54,EdTech,965,LinkedIn,0,4,49,APAC,1
+55,Lead 55,lead55@example.com,Company 55,FinTech,2665,Webinar,2,0,1,NA,0
+56,Lead 56,lead56@example.com,Company 56,Manufacturing,1490,Webinar,5,3,53,EMEA,1
+57,Lead 57,lead57@example.com,Company 57,FinTech,2695,Webinar,4,5,27,APAC,0
+58,Lead 58,lead58@example.com,Company 58,SaaS,1033,Website,5,1,48,NA,0
+59,Lead 59,lead59@example.com,Company 59,SaaS,507,Cold Email,9,1,49,NA,1
+60,Lead 60,lead60@example.com,Company 60,SaaS,2819,LinkedIn,6,3,29,EMEA,1
+61,Lead 61,lead61@example.com,Company 61,SaaS,402,Website,3,1,37,MEA,0
+62,Lead 62,lead62@example.com,Company 62,Manufacturing,875,Website,7,1,50,NA,0
+63,Lead 63,lead63@example.com,Company 63,Healthcare,2847,Webinar,8,2,3,NA,1
+64,Lead 64,lead64@example.com,Company 64,Real Estate,397,Referral,1,2,0,APAC,1
+65,Lead 65,lead65@example.com,Company 65,EdTech,211,Website,8,3,7,ANZ,0
+66,Lead 66,lead66@example.com,Company 66,SaaS,1043,Webinar,2,1,28,EMEA,0
+67,Lead 67,lead67@example.com,Company 67,FinTech,1886,Website,10,3,54,EMEA,1
+68,Lead 68,lead68@example.com,Company 68,SaaS,2944,Webinar,6,2,38,MEA,1
+69,Lead 69,lead69@example.com,Company 69,FinTech,1489,Website,8,2,2,MEA,1
+70,Lead 70,lead70@example.com,Company 70,Real Estate,868,Referral,1,6,31,EMEA,0
+71,Lead 71,lead71@example.com,Company 71,Real Estate,2795,LinkedIn,4,3,9,MEA,0
+72,Lead 72,lead72@example.com,Company 72,Real Estate,568,Cold Email,0,3,9,APAC,1
+73,Lead 73,lead73@example.com,Company 73,FinTech,1025,Website,5,2,18,EMEA,1
+74,Lead 74,lead74@example.com,Company 74,SaaS,100,LinkedIn,6,4,45,MEA,0
+75,Lead 75,lead75@example.com,Company 75,Real Estate,1928,Website,6,0,33,EMEA,1
+76,Lead 76,lead76@example.com,Company 76,Manufacturing,1762,Cold Email,2,2,59,ANZ,0
+77,Lead 77,lead77@example.com,Company 77,FinTech,2537,Cold Email,1,1,32,NA,0
+78,Lead 78,lead78@example.com,Company 78,FinTech,2283,LinkedIn,2,3,22,EMEA,1
+79,Lead 79,lead79@example.com,Company 79,SaaS,2801,Referral,4,2,54,NA,0
+80,Lead 80,lead80@example.com,Company 80,FinTech,1683,Cold Email,2,1,27,MEA,1
