@@ -16,7 +16,8 @@ st.caption("Demo project aligned with LeadSquared SDR workflows — lead intake,
 # Sidebar
 with st.sidebar:
     st.header("Model")
-    model_path = "models/model.joblib"
+    model = joblib.load("models/model.joblib")
+
     model_exists = os.path.exists(model_path)
     if model_exists:
         st.success("Model found: models/model.joblib")
