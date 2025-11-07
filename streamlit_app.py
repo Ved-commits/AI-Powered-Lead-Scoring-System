@@ -3,7 +3,7 @@ import io
 import pandas as pd
 import streamlit as st
 #import joblib
-from models.predict import load_model, score_leads
+#from models.predict import load_model, score_leads
 from utils.emailer import send_email
 from models.train import build_pipeline
 from joblib import dump
